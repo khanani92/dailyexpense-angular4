@@ -1,0 +1,8 @@
+div{
+    display: block;
+}
+mat-card{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
